@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e82de939.css",
+    "main.js": "/myportfolio/static/js/main.f4ccbca7.js",
+    "static/media/edu2.png.png": "/myportfolio/static/media/edu2.png.65892a79c22e3cb87cac.png",
+    "static/media/edu3.png.jpg": "/myportfolio/static/media/edu3.png.1be8a497136a693b617e.jpg",
+    "static/media/cert4.png.jpg.png": "/myportfolio/static/media/cert4.png.jpg.83ce65e82e7eca99f0c8.png",
+    "static/media/cert2.png.jpg.png": "/myportfolio/static/media/cert2.png.jpg.b09bf20ae73fdb43e9cc.png",
+    "static/media/weather.png": "/myportfolio/static/media/weather.a49b84c4923ad386bc7f.png",
+    "static/media/marutham.png": "/myportfolio/static/media/marutham.f2829fe80b12accd0fcc.png",
+    "static/media/heros.png.jpg": "/myportfolio/static/media/heros.png.0675e0112fef9da984bf.jpg",
+    "static/media/cert3.png.jpg": "/myportfolio/static/media/cert3.png.3f8d96447536d775a22a.jpg",
+    "static/media/abouts.png.jpg": "/myportfolio/static/media/abouts.png.83ba91a2da0e8365a7bc.jpg",
+    "static/media/edu1.png.png": "/myportfolio/static/media/edu1.png.d5efa896f02a8757fb39.png",
+    "static/media/portfolio.png": "/myportfolio/static/media/portfolio.64c209b6e87f8beabfd1.png",
+    "index.html": "/myportfolio/index.html",
+    "main.e82de939.css.map": "/myportfolio/static/css/main.e82de939.css.map",
+    "main.f4ccbca7.js.map": "/myportfolio/static/js/main.f4ccbca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82de939.css",
+    "static/js/main.f4ccbca7.js"
+  ]
+}
